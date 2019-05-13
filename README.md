@@ -1,4 +1,4 @@
-<h2>Temperature Converter<\h2>
+# Temperature Converter
 One of my first basic programs.
 The temperatures that are utilized are Kelvin, Fahrenheit, and Celsius.
 
@@ -6,7 +6,7 @@ The temperatures that are utilized are Kelvin, Fahrenheit, and Celsius.
 - Interfaces
 - Java fundamentals
 
-# Future prospect
+# Future of project
 
 - Implementation of JavaFX
 - Implementation as a web app
